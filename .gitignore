@@ -4,4 +4,5 @@
 # Ignore data folders
 open-data
 
-
+#ignore json files
+.json
