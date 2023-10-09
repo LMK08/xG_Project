@@ -3,7 +3,7 @@
 
 **Author**: Lucas Kimball
 
-![img](file:///Users/lkimball/Desktop/download-3.jpg)
+![img](https://github.com/LMK08/xG_Project/blob/main/Images/download-3.jpg)
 
 ## What are Expected Goals (xG)?
 
@@ -53,19 +53,19 @@ The Premier League Football team AFC Richmond has hired consulting data scientis
 ## Visuals
 
 Shot Map
-![img](file:///Users/lkimball/Desktop/Screenshot%202023-10-09%20at%2012.14.37%20AM.png)
+![img](https://github.com/LMK08/xG_Project/blob/main/Images/Screenshot%202023-10-09%20at%2012.14.37%20AM.png)
 
 Goal Map
-![img](file:///Users/lkimball/Desktop/Screenshot%202023-10-09%20at%2012.14.47%20AM.png)
+![img](https://github.com/LMK08/xG_Project/blob/main/Images/Screenshot%202023-10-09%20at%2012.14.47%20AM.png)
 
 Goal Probability Map
-![img](file:///Users/lkimball/Desktop/Screenshot%202023-10-09%20at%2012.14.55%20AM.png)
+![img](https://github.com/LMK08/xG_Project/blob/main/Images/Screenshot%202023-10-09%20at%2012.14.55%20AM.png)
 
 Logistic Regression Model
-![img](file:///Users/lkimball/Desktop/Screenshot%202023-10-09%20at%2012.02.46%20AM.png)
+![img](https://github.com/LMK08/xG_Project/blob/main/Images/Screenshot%202023-10-09%20at%2012.02.46%20AM.png)
 
 Model Coeffcients for each feature
-![img](file:///Users/lkimball/Desktop/Screenshot%202023-10-06%20at%209.21.42%20AM.png)
+![img](https://github.com/LMK08/xG_Project/blob/main/Images/Screenshot%202023-10-06%20at%209.21.42%20AM.png)
 
 
 
