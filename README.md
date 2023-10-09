@@ -13,10 +13,11 @@ Here's a breakdown of how xG is calculated and what it represents:
 
 Shot Characteristics: xG takes into account various parameters of a shot, including:
 
-Distance from the goal
-Angle of the shot
-Type of play (e.g., open play, set piece, counterattack)
-bodypart used to shoot
+- Distance from the goal
+- Angle of the shot
+- Type of play (e.g., open play, set piece, counterattack)
+- bodypart used to shoot
+  
 Historical Data: Analysts and data scientists use large datasets from past matches to analyze how likely shots with similar characteristics were to result in goals.
 
 Probability Assignment: For each shot, a probability of it resulting in a goal is assigned based on the historical data. This probability ranges from 0 to 1, where a value approaching 0 means the shot is unlikely to be a goal and a value approaching 1 means it's highly likely.
@@ -68,23 +69,23 @@ Model Coeffcients for each feature
 
 
 
-
-
 ### Next Steps
 
 - Use model on larger dataset to find specific players to recommend 
 
 - Develop model to determine value of non-goalscorers (ie. xThreat, Goal Probability added)
 
-- Incorporate features such as defender and goalkeeper positioning 
+- Incorporate features such as defender and goalkeeper positioning
+- 
 
 ## For More Information
 
-Please review my full analysis in [our Jupyter Notebook](./EDA-Movie-Studios.pdf) or our [presentation](./Movie_Project_Presentation.pdf).
+Please review the full analysis in [my Jupyter Notebook](./JupyterNotebookFinal) or my [presentation](./xG_Model_Presentation).
 
-For any additional questions, please contact us:
 
-**Eduardo Gonzalez & eduardo0591@gmail.com, Lucas Kimball & lucaskimball98@gmail.com**
+For any additional questions, please contact:
+
+Lucas Kimball & lucaskimball98@gmail.com**
 
 
 
@@ -93,9 +94,9 @@ For any additional questions, please contact us:
 ```
 ├── images
 
-├── EDA-Movie-Studios.ipynb
+├── JupyterNotebookFinal.ipynb
 ├── README.md
 ├── .gitignore
-├── Movie_Project_Presentation.pdf
-└── EDA-Movie-Studios.pdf
+├── xG_Model_Presentation.pdf
+└── JupyterNotebookFinal.pdf
 ```
